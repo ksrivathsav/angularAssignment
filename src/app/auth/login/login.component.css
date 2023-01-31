@@ -1,0 +1,49 @@
+.home {
+    margin: auto;
+    max-width: 1200px;
+}
+.card {
+    box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+}
+
+.btn-link:hover{
+    background-color: lightblue;
+    border: 1px solid black;;
+    border-radius: 20px;
+    text-decoration:dashed;
+    color: white;
+}
+.btn-primary{
+    color:white;
+
+}
+ .btn-light{
+    border-radius: 900px;
+    margin: 2px;
+    border:1px solid black;
+    padding: 5px 30px;
+    width: 250px;
+    margin-left: -20px;
+
+}
+.input {
+    padding: 0 30px;
+}
+a:link {
+      text-decoration: none;
+      color: black;
+}
+
+a:visited {
+      text-decoration: none;
+      color: black;
+}
+
+a:hover {
+      text-decoration: dashed;
+      color: darkblue;
+}
+
+a:active {
+      text-decoration: none;
+}
